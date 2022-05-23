@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Astuce pour être Gay</title>
+        <link rel="stylesheet"href="style.css">
+
+    </head>
+
+    <body>
+
+    	<div id="carte">
+
+
+
+
+
+
+    	<h1>Astuce pour être Gay!</h1><br>
+
+    	<a href="test 2.html"><img src="https://media.istockphoto.com/photos/rainbow-flag-picture-id477122095?k=6&m=477122095&s=612x612&w=0&h=FK6odRFMwtW2LpyPSMmJAUpBgeOZii_rvXWw7n1t4bw="></a>
+
+    	<p>Sois Gay!</p>
+
+    	<h2>Astuce</h2>
+
+    	<ul>
+    		<li>Aimer ça<br>
+    			<img src="https://th.bing.com/th/id/OIP.MQQXkUhvtq3vOJWxCJ4A7QHaD4?w=320&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"></li>
+    		<li>Aimer ça<br>
+    			<img src="https://www.godenight.fr/57284-home_default/gode-realiste-the-intense-24-x-5-cm-captain-red.jpg"></li>
+    		<li>Ne pas être Hétéro<br>
+    			<img src="https://image.shutterstock.com/image-illustration/simple-logo-sign-no-kissing-260nw-2119771118.jpg"></li>
+
+    	</ul>
+
+    </body>
+
+
+
+
+</html>
